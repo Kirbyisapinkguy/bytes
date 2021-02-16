@@ -2,6 +2,6 @@
 
 Social media app.
 
-# Authors
-
+## Authors
+* @justtryingthingsout (plx)
 * Idnottoo
